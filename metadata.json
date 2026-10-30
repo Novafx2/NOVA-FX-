@@ -1,0 +1,8 @@
+{
+  "name": "NOVA FX – Premium Trading & Education Platform",
+  "description": "Futuristic trading and financial education platform featuring live market overviews, interactive 3D charts, trading tools, Forex Factory-style economic calendar, courses, community signals, and full admin customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
